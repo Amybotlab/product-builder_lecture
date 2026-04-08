@@ -10,6 +10,6 @@ This is a simple web application that generates lottery numbers.
 
 ## Current Plan
 
-*   Add a theme switcher to the HTML.
-*   Implement CSS variables for theming.
-*   Add JavaScript to handle theme switching and persistence.
+*   Add a contact form using Formspree for partnership inquiries.
+*   The form will include fields for name, email, and a message.
+*   Style the form to match the application's theme.
