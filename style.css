@@ -6,14 +6,6 @@
     --input-border-color: #007bff;
 }
 
-[data-theme='dark'] {
-    --background-color: #001f3f;
-    --text-color: #e6f7ff;
-    --button-bg-color: #0056b3;
-    --button-text-color: white;
-    --input-border-color: #0056b3;
-}
-
 body {
     font-family: sans-serif;
     display: flex;
@@ -30,16 +22,10 @@ body {
     text-align: center;
 }
 
-.theme-switcher-container {
+.language-switcher {
     position: absolute;
     top: 10px;
     right: 10px;
-}
-
-.numbers {
-    margin-bottom: 20px;
-    font-size: 24px;
-    font-weight: bold;
 }
 
 button {
@@ -50,6 +36,7 @@ button {
     font-size: 16px;
     cursor: pointer;
     border-radius: 5px;
+    margin: 0 5px;
 }
 
 .form-container {

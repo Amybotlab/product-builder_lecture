@@ -4,13 +4,12 @@ This is a simple web application for partnership inquiries.
 
 ## Implemented Features
 
-*   Generates 6 unique random numbers between 1 and 45.
-*   Displays the generated numbers on the screen.
-*   Dark mode and light mode toggle.
 *   A contact form using Formspree for partnership inquiries.
+*   A color scheme based on blue tones.
 
 ## Current Plan
 
-*   Change the page title to "Partnership Inquiry".
-*   Update the color scheme to a blue-based theme.
+*   Remove the lottery number generation functionality.
+*   Remove the theme (dark/light mode) toggle functionality.
+*   Add language switching functionality (Korean, English, Chinese).
 *   Deploy the application.
