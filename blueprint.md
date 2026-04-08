@@ -6,9 +6,10 @@ This is a simple web application that generates lottery numbers.
 
 *   Generates 6 unique random numbers between 1 and 45.
 *   Displays the generated numbers on the screen.
+*   Dark mode and light mode toggle.
 
 ## Current Plan
 
-*   Create the basic HTML structure for the lottery number generator.
-*   Implement the JavaScript logic to generate and display the lottery numbers.
-*   Add styling to the application.
+*   Add a theme switcher to the HTML.
+*   Implement CSS variables for theming.
+*   Add JavaScript to handle theme switching and persistence.
