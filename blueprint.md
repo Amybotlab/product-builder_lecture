@@ -1,15 +1,16 @@
-# Lottery Number Generator
+# Partnership Inquiry Form
 
-This is a simple web application that generates lottery numbers.
+This is a simple web application for partnership inquiries.
 
 ## Implemented Features
 
 *   Generates 6 unique random numbers between 1 and 45.
 *   Displays the generated numbers on the screen.
 *   Dark mode and light mode toggle.
+*   A contact form using Formspree for partnership inquiries.
 
 ## Current Plan
 
-*   Add a contact form using Formspree for partnership inquiries.
-*   The form will include fields for name, email, and a message.
-*   Style the form to match the application's theme.
+*   Change the page title to "Partnership Inquiry".
+*   Update the color scheme to a blue-based theme.
+*   Deploy the application.

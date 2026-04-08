@@ -1,17 +1,17 @@
 :root {
-    --background-color: #f0f0f0;
-    --text-color: #333;
-    --button-bg-color: #4CAF50;
+    --background-color: #e6f7ff;
+    --text-color: #003366;
+    --button-bg-color: #007bff;
     --button-text-color: white;
-    --input-border-color: #ccc;
+    --input-border-color: #007bff;
 }
 
 [data-theme='dark'] {
-    --background-color: #333;
-    --text-color: #f0f0f0;
-    --button-bg-color: #555;
+    --background-color: #001f3f;
+    --text-color: #e6f7ff;
+    --button-bg-color: #0056b3;
     --button-text-color: white;
-    --input-border-color: #555;
+    --input-border-color: #0056b3;
 }
 
 body {
